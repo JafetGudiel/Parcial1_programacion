@@ -13,6 +13,7 @@ namespace ControlVersiones
             Console.WriteLine("Este es el primer parcial de programacion");
             Console.WriteLine("Primer cambio en la rama");
             Console.WriteLine("Segundo cambio en la rama ");
+            Console.WriteLine("Segundo cambio en la rama principal ");
             Console.ReadLine();
             
         }
